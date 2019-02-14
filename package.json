@@ -1,0 +1,20 @@
+{
+  "name": "sha256plus",
+  "version": "1.0.0",
+  "description": "A SHA256 generator that is fast, synchronous and resitant to length extention attacks (sha256(sha256(msg) + msg))",
+  "main": "dist/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build": "tsc"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/XCredits/sha256plus.git"
+  },
+  "author": "XCredits <teamx@xcredits.com> (https://xcredits.com)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/XCredits/sha256plus/issues"
+  },
+  "homepage": "https://github.com/XCredits/sha256plus#readme"
+}
