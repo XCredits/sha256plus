@@ -1,7 +1,7 @@
 {
   "name": "sha256plus",
-  "version": "1.0.0",
-  "description": "A SHA256 generator that is fast, synchronous and resitant to length extention attacks (sha256(sha256(msg) + msg))",
+  "version": "1.0.1",
+  "description": "A SHA256 generator that is fast, synchronous and resistant to length extension attacks (sha256(sha256(msg) + msg))",
   "main": "dist/index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
